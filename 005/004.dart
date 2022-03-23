@@ -26,4 +26,4 @@ class Pessoa {
 - Para criar objetos precisamos de uma classe que represente o tipo de objeto.
 - Para criar um objeto do tipo definido cria-se uma variável do tipo definido e executa-se a função.
 
-*/
+
