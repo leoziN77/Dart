@@ -1,2 +1,2 @@
 # Dart
- Projetos em Dart.
+ Projetos em linguagem Dart.
